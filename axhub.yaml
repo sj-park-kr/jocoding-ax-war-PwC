@@ -1,0 +1,7 @@
+version: axhub/v1
+name: amugan
+metadata:
+  name: 아무간
+build:
+  deploy_method: static
+  static_output_dir: public
